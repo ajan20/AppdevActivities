@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tClock" type="id" />
+    <item name="web" type="id" />
+    <item name="Capture" type="id" />
+    <item name="editText" type="id" />
+    <item name="imageView" type="id" />
+    <item name="checkBox3" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="radioButton1" type="id" />
+    <item name="radioButton2" type="id" />
+    <item name="radioButton3" type="id" />
+    <item name="switchbtn" type="id" />
+    <item name="checkBox1" type="id" />
+    <item name="txtValue" type="id" />
+    <item name="checkBox2" type="id" />
+    <item name="Growbtn" type="id" />
+    <item name="Shrinkbtn" type="id" />
+    <item name="Hidebtn" type="id" />
+    <item name="Resetbtn" type="id" />
+    <item name="Addbtn" type="id" />
+    <item name="Takebtn" type="id" />
+</resources>
